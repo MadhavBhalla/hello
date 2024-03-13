@@ -1,3 +1,7 @@
 
 my name is madhav
+<<<<<<< HEAD
 dbhjbfhwhjfbw
+=======
+my age is 19 yrs old
+>>>>>>> 7b37523a716bee22bdb83b03b4f2dc70577c02cd
